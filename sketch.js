@@ -8,7 +8,8 @@ var c1, c2;
 var collection = [];
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  //createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
   background(255);
   c1 = color(87, 199, 232);
   c2 = color(168, 116, 229);
